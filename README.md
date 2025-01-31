@@ -2,6 +2,8 @@
 
 This GNOME Shell extension moves the dash out of the overview, transforming it into a dock for easier application launching and faster window and desktop switching without leaving the desktop view.
 
+![Preview](https://raw.githubusercontent.com/egoficial/dash-to-dock/refs/heads/main/media/preview.png)
+
 ## Modifications
 - Removed extra spacing between icons.
 - Removed the translucent background behind the focused window icon.
