@@ -22,7 +22,7 @@ export SASS=dart  # or export SASS=ruby
 Clone the repository and install the extension:
 
 ```sh
-git clone <git@github.com:egoficial/dash-to-dock.git> dash-to-dock
+git clone git@github.com:egoficial/dash-to-dock.git dash-to-dock
 make -C dash-to-dock install
 ```
 
