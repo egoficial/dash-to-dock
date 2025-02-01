@@ -1,3 +1,6 @@
+> [!WARNING]  
+> "Shrink to dock/dash" mode must be active!
+
 # Dash to Dock - Modified Version
 
 This GNOME Shell extension moves the dash out of the overview, transforming it into a dock for easier application launching and faster window and desktop switching without leaving the desktop view.
