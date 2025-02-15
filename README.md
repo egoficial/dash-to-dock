@@ -8,12 +8,9 @@ This GNOME Shell extension moves the dash out of the overview, transforming it i
 ![Preview](https://raw.githubusercontent.com/egoficial/dash-to-dock/refs/heads/main/media/preview.png)
 
 ## Modifications
-- Changed $base_padding to 6px.
-- Changed $base_border_radius to 6px.
-- Changed $remark_color (Alpha) to 0.
-- Changed $dash_padding (It is no longer multiplied by 2).
-- Changed $dash_padding (4px is no longer added).
-- Changed set-internal-children-property ($dock_icons_distance is no longer divided by 2).
+- Removed extra internal padding.
+- Removed extra icons spacing.
+- Changed dash border radius to 6px.
 
 
 ## Installation from Source
