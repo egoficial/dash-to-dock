@@ -1,5 +1,5 @@
 > [!WARNING]  
-> "Shrink to dock/dash" mode must be active!
+> "Shrink dash" mode must be active!
 
 # Dash to Dock - Modified Version
 
